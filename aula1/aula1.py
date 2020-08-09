@@ -16,3 +16,5 @@ print('Linha 6')
 """
 Tres aspas podem também serem usadas para fazer comentários ou documentações
 """
+
+# Sempre deixar uma linha em branco no fim do codigo
